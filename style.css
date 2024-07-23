@@ -1,0 +1,25 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.container {
+    text-align: center;
+}
+
+.input {
+    text-align: center;
+
+}
+
+.input1 {
+    height: 38px;
+
+}
+
+.imges {}
+
+.btn {
+    background-color: black;
+    border-radius: 50%;
+}
